@@ -1,2 +1,2 @@
 # Toys
-Landing page about toys with WordPress backend
+Landing page Childhood about toys with WordPress backend
